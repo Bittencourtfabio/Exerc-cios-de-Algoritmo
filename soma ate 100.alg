@@ -10,7 +10,7 @@ somaContador:real
 inicio
 contador<-1
 
-enquanto contador <= 5 faca
+enquanto contador <= 5 faca //laco enquanto
    resultado <- resultado + contador
    escreval(somaContador," + ", contador," =", resultado)
    somaContador <-resultado
